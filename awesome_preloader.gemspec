@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = AwesomePreloader::VERSION
   s.authors     = ["Brian Wheeler"]
   s.email       = ["bwheeler96@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of AwesomePreloader."
-  s.description = "TODO: Description of AwesomePreloader."
+  s.homepage    = ""
+  s.summary     = "Summary of AwesomePreloader."
+  s.description = "Description of AwesomePreloader."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
